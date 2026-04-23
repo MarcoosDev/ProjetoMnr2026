@@ -1,2 +1,2 @@
 # ProjetoMnr2026
-Repositório para o projeto
+ Isso é o repositório de um projeto para Mostra Nacional de Robótica que ocorrerá em outubro 
